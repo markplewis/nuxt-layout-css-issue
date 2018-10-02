@@ -2,6 +2,8 @@
 
 > Nuxt.js project
 
+This project was created in order to demo the following bug: https://github.com/nuxt/nuxt.js/issues/3877
+
 This project was created using the [Nuxt Starter Template](https://github.com/nuxt-community/starter-template).
 
 ## Build Setup
