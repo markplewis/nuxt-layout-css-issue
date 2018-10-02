@@ -22,9 +22,9 @@ module.exports = {
   */
   build: {
     // See: https://github.com/nuxt/nuxt.js/issues/3877
-    // splitChunks: {
-    //   layouts: true
-    // },
+    splitChunks: {
+      layouts: true
+    },
     /*
     ** Run ESLint on save
     */
