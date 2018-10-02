@@ -13,7 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "nuxt-edge": "latest"
+    "nuxt": "^2.1.0"
   },
   "devDependencies": {
     "babel-eslint": "^9.0.0-beta",
