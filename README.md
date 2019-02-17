@@ -2,15 +2,13 @@
 
 > Nuxt.js project
 
-This project was created in order to demo the following bug: https://github.com/nuxt/nuxt.js/issues/3877
-
-This project was created using the [Nuxt Starter Template](https://github.com/nuxt-community/starter-template).
+This project was created using [create-nuxt-app](https://github.com/nuxt/create-nuxt-app), in order to demo the following bug: https://github.com/nuxt/nuxt.js/issues/3877
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-$ npm install # Or yarn install
+$ npm install
 
 # serve with hot reload at localhost:3000
 $ npm run dev
@@ -23,5 +21,4 @@ $ npm start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-
+For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
